@@ -1,0 +1,7 @@
+//HowToRun.txt
+
+Step 1: Navigate to the CalculatorApp
+
+Step 2: javac Calculator.java Operations/*.java
+
+Step 3: java Calculator
